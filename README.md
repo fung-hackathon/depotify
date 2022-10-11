@@ -7,9 +7,8 @@
 <img alt="AppIcon" src="image/Icon.svg" width="200">
 
 # Repositories
-
-Android App: [funHacks2022-App](https://github.com/fung-hackathon/funHacks2022-App)
-
-Web Frontend: [funhackathon2022-web](https://github.com/fung-hackathon/funhackathon2022-web)
-
-Backend Server: [funhackathon2022-backend](https://github.com/fung-hackathon/funhackathon2022-backend)
+| Repo | Link |
+| ---- | ---- |
+| Android App  | [depotify-android](https://github.com/fung-hackathon/depotify-android) |
+| Web Frontend | [depotify-web](https://github.com/fung-hackathon/depotify-web) |
+| Backend Server | [depotify-backend](https://github.com/fung-hackathon/depotify-backend) |
